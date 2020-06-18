@@ -1,0 +1,3 @@
+I am an egg. I dont like other eggs. They are mean to me. They bully me. So I convinced the king of eggland to kill all of them. Why? he thinks its because of overpopulation(heheheheh...). Little does he know that I want revenge on all of them.
+
+Here I made this practical little GUI to control everything fot the king. He shall be able to kill eggs and make new weapons and kill more eggs from the remains of the first few.
